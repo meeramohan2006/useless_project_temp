@@ -8,17 +8,17 @@
 Designed for students and heavy scrollers who want to take short phone breaks after long studying hours without falling into a mindless scrolling trap.
 
 
-### Team Members
+### Team Member
 Meera Mohan(Solo)
 
 ### Project Description
-[Kotha Jail is a humorous yet oddly effective anti-doomscrolling web app built to combat mindless phone addiction during study breaks.
+Kotha Jail is a humorous yet oddly effective anti-doomscrolling web app built to combat mindless phone addiction during study breaks.
 
-### The Problem (that doesn't exist)
-[Students take short phone breaks while studying, only to get trapped in an endless cycle of doomscrolling on social media, completely losing track of time and productivity.
+### The Problem 
+Students take short phone breaks while studying, only to get trapped in an endless cycle of doomscrolling on social media, completely losing lack of time and productivity.
 
-### The Solution (that nobody asked for)
-[Kotha Jail solves this by acting as a strict digital warden. Users set a time boxed limit for their break before using their phone. Once the timer hits zero, the app goes into full lockdown mode with meme sticker and movie dialogues related to the situation.
+### The Solution 
+Kotha Jail solves this by acting as a strict digital warden. Users set a time boxed limit for their break before using their phone. Once the timer hits zero, the app goes into full lockdown mode with meme sticker and movie dialogues related to the situation.
 
 ## Technical Details
 ### Technologies/Components Used
@@ -41,51 +41,20 @@ Open the project folder in VS Code install and use Live Server
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1855" height="918" alt="image" src="https://github.com/user-attachments/assets/738b7970-f4fc-41d5-ac9a-18a789f2fea8" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="636" height="528" alt="image" src="https://github.com/user-attachments/assets/1bde1f3d-5047-4f9e-810a-8243ae57c5a8" />
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1RD1Plxj6muNGpKgmT7PavsclqLvFWLli/view?usp=sharing
+When taking a study break, you set a timer on the app. When the timer runs out, audio 1 plays. If you try to close it, audio 2 plays. It will only return to normal once you put your phone away for a little while.
 
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
